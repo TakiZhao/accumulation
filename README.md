@@ -1,2 +1,33 @@
-# accumulation
-日常学习积累
+* 日积月累工作宝典
+* 一、linux
+    * [1.java1.8的安装与卸载](linux/1.java1.8的安装与卸载.md)
+    * [2.tomcat8服务的安装与配置](linux/2.tomcat8服务的安装与配置.md)
+    * [3.mysql5.6服务的安装](linux/3.mysql5.6服务的安装.md)
+    * [4.nginx1.8.0服务的安装](linux/4.nginx1.8.0服务的安装.md)
+    * [5.redis与redis集群服务的安装](linux/5.redis与redis集群服务的安装.md)
+    * [6.kafka服务的安装](linux/6.kafka服务的安装.md)
+    * [7.keepalived服务的安装](linux/7.keepalived服务的安装.md)
+    * [8.Linux常用命令](linux/8.Linux常用命令.md)
+    * [9.zabbix监控系统安装步骤](linux/9.zabbix监控系统安装步骤.md)
+    * [10.Elasticsearch集群服务的安装](linux/10.Elasticsearch集群服务的安装.md)
+    * [11.Keepalived+Nginx+Tomcat实现高可用Web服务(主备模式)](linux/11.Keepalived+Nginx+Tomcat实现高可用Web服务(主备模式).md)
+    * [12.nginx及其依赖包升级步骤](linux/12.nginx及其依赖包升级步骤.md)
+    * [13.nginx配置拦截URL特殊字符](linux/13.nginx配置拦截URL特殊字符.md)
+    * [14.使用docker部署springboot项目](linux/14.使用docker部署springboot项目.md)
+    * [15.docker安装nginx实现负载均衡.md](linux/15.docker安装nginx实现负载均衡.md)
+* 二、windows
+    * [1.java1.8环境的安装](windows/1.java1.8环境的安装.md)
+    * [2.tomcat8服务的安装与配置](windows/2.tomcat8服务的安装与配置.md)
+    * [3.mysql5.6服务的安装](windows/3.mysql5.6服务的安装.md)
+    * [4.redis与redis集群服务的安装](windows/4.redis与redis集群服务的安装.md)
+    * [5.DBDocumentGenerator导出数据库字典的安装与使用](windows/5.DBDocumentGenerator的安装.md)
+    * [6.Maven的安装与配置](windows/6.Maven的安装与配置.md)
+* 三、开发规范
+    * [1.开发注释规范](standard/1.开发注释规范.md)
+    * [2.代码规范](standard/阿里巴巴Java开发手册v1.2.0.pdf)
+    * [3.MySql开发规范](standard/MySQL开发规范.docx)
+* 四、避雷区
+    * [1.经验总结](work/1.经验总结.md)
+    * [2.文件检查](work/2.文件编辑.md)
+* 五、学习总结
+    * [1.待补充]
